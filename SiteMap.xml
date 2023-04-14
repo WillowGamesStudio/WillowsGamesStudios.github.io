@@ -36,48 +36,6 @@
       <priority>0.8</priority>
       <changefreq>weekly</changefreq>
    </url>
-   <url>
-      <loc>https://willows-games-studios.itch.io/</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.6</priority>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>https://www.youtube.com/@WillowsGamesStudios</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.6</priority>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>https://steamcommunity.com/id/WillowsGamesStudios/</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.6</priority>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>https://github.com/WillowsGamesStudios</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.6</priority>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>https://discord.gg/HNRXywaKUh</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.6</priority>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>https://www.facebook.com/profile.php?id=100088417490594</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.6</priority>
-      <changefreq>weekly</changefreq>
-   </url>
-    <url>
-      <loc>https://willowsgamesstudios.github.io/robots.txt</loc>
-      <lastmod>2023-04-14</lastmod>
-      <priority>0.9</priority>
-      <changefreq>weekly</changefreq>
-   </url>
 </urlset>
 
 <!-- SiteMap Pour Willows Games Studios WebSite -->
